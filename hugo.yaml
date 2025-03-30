@@ -1,0 +1,4 @@
+baseURL: https://blog.tyrsec.de/
+languageCode: en-us
+title: TyrSec
+theme: ["PaperMod"]
