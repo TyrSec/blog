@@ -5,3 +5,13 @@ theme: ["PaperMod"]
 caches:
   images:
     dir: :cacheDir/images
+params:
+  homeInfoParams:
+    Title: Hi there, welcome.
+    Content: About
+
+  socialIcons: # optional
+    - name: "Stackoverflow"
+      url: "https://stackoverflow.com/users/6717614/tyr"
+    - name: "GitHub"
+      url: "https://github.com/TyrSec"
